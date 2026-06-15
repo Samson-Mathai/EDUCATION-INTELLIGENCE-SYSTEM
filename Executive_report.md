@@ -16,6 +16,7 @@ It is a compounding issue where learners accumulate financial friction without t
 
 **The Scholarship Buffer:** By contrast, students who hold scholarships have near zero finance related dropout risk, showing off a graduation rate of 75.9% and a dropout rate of only 12.4%.
 
+<img width="1584" height="1142" alt="image" src="https://github.com/user-attachments/assets/43bb6543-6e84-43e0-ad48-a00c721966cd" />
 
 
 #### 2. The Time Poverty Crisis -Age Demographics
